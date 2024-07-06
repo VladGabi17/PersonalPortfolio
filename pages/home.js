@@ -1,9 +1,10 @@
+import React from "react";
 import { Footer } from "@components";
 import { NavBar } from "@components";
 import { Portfolio } from "@components";
 import { HomeHero } from "@components";
 
-const Page = () => {
+const Home = () => {
   return (
     <div>
       <NavBar />
@@ -14,4 +15,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default Home;

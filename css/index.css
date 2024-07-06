@@ -2,6 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
+
 @import 'normalize.css';
 @import 'buttons.css';
 @import 'calendar.css';
